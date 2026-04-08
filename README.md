@@ -1,19 +1,22 @@
-# Tips Dataset EDA
+# ML Portfolio
 
-This project contains Exploratory Data Analysis (EDA) of the Tips dataset.
+This repository contains my Machine Learning and Data Analysis practice projects.
 
-## Tools Used
+I am building this portfolio step by step to improve my skills in:
 - Python
-- Pandas
 - NumPy
-- Matplotlib
-- Seaborn
+- Pandas
+- Data Visualization
+- Exploratory Data Analysis (EDA)
+- Machine Learning
 
-## Key Insights
-- Total bill and tip have strong positive relationship
-- Dinner time has more customers than lunch
-- Saturday has the highest number of customers
-- Data is positively skewed
+## Projects Included
+
+### 1. Tips Dataset EDA
+Exploratory Data Analysis of restaurant customer bill and tip data.
+
+### 2. Titanic Dataset EDA
+Exploratory Data Analysis of Titanic passenger survival data.
 
 ## Goal
-To practice data analysis and visualization skills for Machine Learning preparation.
+My goal is to become a Machine Learning Engineer by building projects consistently and improving my practical skills.
